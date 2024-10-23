@@ -1,1 +1,1 @@
-# Palindrome-Checker
+Odin's Project Palindrome Checker
